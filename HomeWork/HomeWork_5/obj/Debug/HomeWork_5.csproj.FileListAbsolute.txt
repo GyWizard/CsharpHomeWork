@@ -1,0 +1,11 @@
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\bin\Debug\HomeWork_5.exe.config
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\bin\Debug\HomeWork_5.exe
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\bin\Debug\HomeWork_5.pdb
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\bin\Debug\HomeWork_1.exe
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\bin\Debug\HomeWork_1.pdb
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\bin\Debug\HomeWork_1.exe.config
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\obj\Debug\HomeWork_5.csprojAssemblyReference.cache
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\obj\Debug\HomeWork_5.csproj.CoreCompileInputs.cache
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\obj\Debug\HomeWork_5.csproj.CopyComplete
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\obj\Debug\HomeWork_5.exe
+C:\Users\GypsyWizard\source\repos\HomeWork\HomeWork_5\obj\Debug\HomeWork_5.pdb
