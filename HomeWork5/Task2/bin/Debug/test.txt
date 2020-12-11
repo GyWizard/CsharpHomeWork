@@ -1,0 +1,77 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Helper;
+namespace Task2
+{
+    class Message
+    {
+        public static void PrintLessThen(string message,int n )
+        {
+            message=message.Replace("\r\n", "");
+            string[] messageSplit= message.Split(' ',',','.');
+                foreach (string s in messageSplit)
+                {
+                    if (s.Length < n && s.Length>0)
+                    {
+                        Console.WriteLine(s);
+                    }
+                }
+        }
+        
+        public static string DeleteAllWithEndOf(string message, char c)
+        {
+            message = message.Replace("\r\n", "");
+            string[] messageSplit = message.Split(' ', ',', '.');
+
+            StringBuilder sb = new StringBuilder();
+            foreach(string s in messageSplit)
+            {
+                if(!s.Equals(String.Empty))
+                {
+                    if(s[s.Length-1]!=c)
+                    {
+                        sb.Append($"{s} ");
+                    }
+                }
+                
+            }
+            return sb.ToString();
+        }
+
+        public static string FindMax(string message)
+        {
+            message = message.Replace("\r\n", "");
+            string max=String.Empty;
+            string[] messageSplit = message.Split(' ', ',', '.');
+            foreach (string s in messageSplit)
+            {
+                if(s.Length>max.Length)
+                {
+                    max = s;
+                }
+            }
+            return max;
+        }
+
+        public static string MaxWords(string message)
+        {
+            message = message.Replace("\r\n", "");
+            string[] messageSplit = message.Split(' ', ',', '.');
+            int max = FindMax(message).Length;
+            StringBuilder sb = new StringBuilder();
+            foreach (string s in messageSplit)
+            {
+                if (s.Length==max)
+                {
+                    sb.Append($"{s} ");
+                }
+            }
+            return sb.ToString();
+        }
+
+
+    }
