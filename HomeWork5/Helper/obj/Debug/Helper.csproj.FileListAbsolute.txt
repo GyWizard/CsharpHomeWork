@@ -1,0 +1,7 @@
+C:\Users\GypsyWizard\source\repos\HomeWork5\Helper\bin\Debug\HomeWork3.exe.config
+C:\Users\GypsyWizard\source\repos\HomeWork5\Helper\bin\Debug\HomeWork3.exe
+C:\Users\GypsyWizard\source\repos\HomeWork5\Helper\bin\Debug\HomeWork3.pdb
+C:\Users\GypsyWizard\source\repos\HomeWork5\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+C:\Users\GypsyWizard\source\repos\HomeWork5\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\GypsyWizard\source\repos\HomeWork5\Helper\obj\Debug\HomeWork3.exe
+C:\Users\GypsyWizard\source\repos\HomeWork5\Helper\obj\Debug\HomeWork3.pdb
