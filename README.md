@@ -1,2 +1,0 @@
-# CsharpHomeWork
-C# HomeWork
