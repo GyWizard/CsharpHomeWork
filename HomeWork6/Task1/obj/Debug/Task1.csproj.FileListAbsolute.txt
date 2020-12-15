@@ -1,0 +1,11 @@
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\bin\Debug\Task1.exe.config
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\bin\Debug\Task1.exe
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\bin\Debug\Task1.pdb
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\bin\Debug\Helper.exe
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\bin\Debug\Helper.pdb
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\bin\Debug\Helper.exe.config
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\obj\Debug\Task1.csproj.CopyComplete
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\obj\Debug\Task1.exe
+C:\Users\GypsyWizard\source\repos\HomeWork6\Task1\obj\Debug\Task1.pdb
