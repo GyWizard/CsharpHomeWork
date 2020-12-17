@@ -1,0 +1,10 @@
+C:\Users\GypsyWizard\source\repos\DoubleGame\DoubleGame\bin\Debug\DoubleGame.exe.config
+C:\Users\GypsyWizard\source\repos\DoubleGame\DoubleGame\bin\Debug\DoubleGame.exe
+C:\Users\GypsyWizard\source\repos\DoubleGame\DoubleGame\bin\Debug\DoubleGame.pdb
+C:\Users\GypsyWizard\source\repos\DoubleGame\DoubleGame\obj\Debug\DoubleGame.csprojAssemblyReference.cache
+C:\Users\GypsyWizard\source\repos\DoubleGame\DoubleGame\obj\Debug\DoubleGame.Form1.resources
+C:\Users\GypsyWizard\source\repos\DoubleGame\DoubleGame\obj\Debug\DoubleGame.Properties.Resources.resources
+C:\Users\GypsyWizard\source\repos\DoubleGame\DoubleGame\obj\Debug\DoubleGame.csproj.GenerateResource.cache
+C:\Users\GypsyWizard\source\repos\DoubleGame\DoubleGame\obj\Debug\DoubleGame.csproj.CoreCompileInputs.cache
+C:\Users\GypsyWizard\source\repos\DoubleGame\DoubleGame\obj\Debug\DoubleGame.exe
+C:\Users\GypsyWizard\source\repos\DoubleGame\DoubleGame\obj\Debug\DoubleGame.pdb
