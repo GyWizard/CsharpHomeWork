@@ -1,0 +1,9 @@
+C:\Users\GypsyWizard\source\repos\DoubleGame\GuessGame\bin\Debug\GuessGame.exe.config
+C:\Users\GypsyWizard\source\repos\DoubleGame\GuessGame\bin\Debug\GuessGame.exe
+C:\Users\GypsyWizard\source\repos\DoubleGame\GuessGame\bin\Debug\GuessGame.pdb
+C:\Users\GypsyWizard\source\repos\DoubleGame\GuessGame\obj\Debug\GuessGame.Form1.resources
+C:\Users\GypsyWizard\source\repos\DoubleGame\GuessGame\obj\Debug\GuessGame.Properties.Resources.resources
+C:\Users\GypsyWizard\source\repos\DoubleGame\GuessGame\obj\Debug\GuessGame.csproj.GenerateResource.cache
+C:\Users\GypsyWizard\source\repos\DoubleGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\GypsyWizard\source\repos\DoubleGame\GuessGame\obj\Debug\GuessGame.exe
+C:\Users\GypsyWizard\source\repos\DoubleGame\GuessGame\obj\Debug\GuessGame.pdb
